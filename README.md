@@ -8,7 +8,7 @@ I work at the intersection of computation and molecular science, applying algori
 
 Open source, scientific computing, Linux systems, and hardware-oriented experimentation are part of the same continuum: control, clarity, and reproducibility.
 
-> *Code is method. Infrastructure is leverage. Molecules are just another system to understand.*
+> *Codex est modus structuras fundamentales alia lingua rescribendi.*
 
 ---
 
